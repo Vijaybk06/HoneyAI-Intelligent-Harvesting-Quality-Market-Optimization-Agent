@@ -1,0 +1,11 @@
+[
+  {"id": "t1", "features": {"moisture": 16.0, "hmf": 3}, "expected_label": "High"},
+  {"id": "t2", "features": {"moisture": 22.0, "hmf": 15}, "expected_label": "Low"},
+  {"id": "t3", "features": {"moisture": 18.5, "hmf": 8}, "expected_label": "Medium"}
+]
+
+
+
+
+
+
